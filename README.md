@@ -1,1 +1,31 @@
-# Natural-Language-Processing
+# 자연어처리 프로젝트 모음
+
+자연어처리 수업에서 진행한 과제 및 프로젝트를 정리한 레포지토리입니다.
+
+## 📂 프로젝트 목록
+
+### 1. 보이스피싱 텍스트 분류
+**파일**: `en_text_classification_voicephishing_klue_roberta.ipynb`
+
+- **모델**: KLUE-RoBERTa
+- **목적**: 보이스피싱 텍스트 탐지 및 분류
+- **주요 내용**: 
+  - 한국어 텍스트 전처리
+  - KLUE-RoBERTa 파인튜닝
+  - 분류 성능 평가
+
+### 2. Unsloth 기반 LLM 파인튜닝
+**파일**: `unsloth-fine-tune-answers.ipynb`, `unsloth-fine-tune-bonus.ipynb`
+
+- **라이브러리**: Unsloth
+- **목적**: 효율적인 LLM 파인튜닝 실습
+- **주요 내용**:
+  - LoRA 기반 파인튜닝
+  - 메모리 효율적인 학습
+  - 파인튜닝 전후 성능 비교
+
+## 🛠 사용 기술
+- Python
+- Transformers (Hugging Face)
+- Unsloth
+- PyTorch
