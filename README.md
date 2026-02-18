@@ -15,7 +15,7 @@
   - 분류 성능 평가
 
 ### 2. Unsloth 기반 LLM 파인튜닝
-**파일**: `unsloth-fine-tune-answers.ipynb`, `unsloth-fine-tune-bonus.ipynb`
+**파일**: `unsloth-fine-tune-bonus.ipynb`
 
 - **라이브러리**: Unsloth
 - **목적**: 효율적인 LLM 파인튜닝 실습
